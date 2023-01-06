@@ -1,33 +1,68 @@
-[	
-	{
-	"id": 1,
-	"first_name": "Newton",
-	"last_name": "Perełka",
-	"email": "niutonek.kotzapchlony@gmail.com",
-	"phoneNumber": "+48 000 000 000",
-	"picture": "https://zwierzaki.pl/wp-content/uploads/2021/01/kot-europejski-840x400.jpg",
-	"birthday": "",
-	"birthPlace": "kanał obok WORDu",
-	},
-	{
-	"id": 2,
-	"first_name": "Marika",
-	"last_name": "Perełka",
-	"email": "marikaperelka@gmail.com",
-	"phoneNumber": "+00 000 000 000",
-	"picture": "https://sp-ao.shortpixel.ai/client/q_lossless,ret_img,w_680/https://apetete.pl/blog/wp-content/uploads/2021/03/sophie-louisnard-kbiBXsea4o8-unsplash-680x1024.jpg",
-	"birthday": "22.10.2013",
-	"birthPlace": "gdzieś na drodze",
-	},
-	{
-	"id": 3,
-	"first_name": "Monti",
-	"last_name": "Perełka",
-	"email": "montiperelka@gmail.com",
-	"phoneNumber": "+00 000 000 000",
-	"picture": "https://polki.pl/foto/16_9_LARGE/kot-perski-charakterystyka-rasy-1704649.jpg",
-	"birthday": "dwano",
-	"birthPlace": "gdzieś w hodowli",
-	
-	}
-	]
+{
+  "users": [
+	  {
+"id": 1,
+"first_name": "Newton",
+"last_name": "Perełka",
+"email": "niutonek.kotzapchlony@gmail.com",
+"phoneNumber": "+48 000 000 000",
+"picture": "https://zwierzaki.pl/wp-content/uploads/2021/01/kot-europejski-840x400.jpg",
+"birthday": "",
+"birthPlace": "kanał obok WORDu",
+},
+{
+"id": 2,
+"first_name": "Marika",
+"last_name": "Perełka",
+"email": "marikaperelka@gmail.com",
+"phoneNumber": "+00 000 000 000",
+"picture": "https://sp-ao.shortpixel.ai/client/q_lossless,ret_img,w_680/https://apetete.pl/blog/wp-content/uploads/2021/03/sophie-louisnard-kbiBXsea4o8-unsplash-680x1024.jpg",
+"birthday": "22.10.2013",
+"birthPlace": "gdzieś na drodze",
+},
+{
+"id": 3,
+"first_name": "Monti",
+"last_name": "Perełka",
+"email": "montiperelka@gmail.com",
+"phoneNumber": "+00 000 000 000",
+"picture": "https://polki.pl/foto/16_9_LARGE/kot-perski-charakterystyka-rasy-1704649.jpg",
+"birthday": "dwano",
+"birthPlace": "gdzieś w hodowli",
+
+}
+]
+
+        	  
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Pan Tadeusz",
+      "author_id": 1,
+      "picture": "https://picsum.photos/id/1003/100/300",
+      "content": "Litwo! Ojczyzno moja! Ty jesteś jak zdrowie. Nazywał się możemy na wieś rozweselić. Tadeusz Telimenie, Asesor Krajczance a często bez żadnych ozdób, ale szerzej niż myśliwi młodzi tak było jeszcze dobrze zachowana sklepienie całe zaczerwienione, jak on znowu w kuca. Obaczcież, co dzień postrzegam, jak czas i zdrowie. Nazywał się zdawał małpą lub wymowy uczyć się tłocz i tam ma szkół uczących żyć z dom nikt lepiej nad błękitnym Niemnem rozciągnionych. Do zobaczenia! tak wedle dzisiejszej mody jeździł Hreczecha. Tu śmiech młodzieży mowę Wojskiego zagłuszył."
+    },
+    {
+      "id": 2,
+      "title": "Nowomowa",
+      "author_id": 1,
+      "picture": "https://picsum.photos/id/1006/300/100",
+      "content": "Drogi Marszałku, Wysoka Izbo. PKB rośnie. Nie chcę państwu niczego sugerować, ale stałe zabezpieczenie informacyjne naszej działalności rozszerza nam horyzonty istniejących kryteriów rozszerza nam horyzonty obecnej sytuacji. W praktyce skoordynowanie pracy obu urzędów jest ważne z powodu kolejnych kroków w większym stopniu tworzenie systemu powszechnego uczestnictwa. I staje się wskaźniki... Nikt inny was nie trzeba udowadniać, ponieważ zmiana istniejących kryteriów umożliwia w wypracowaniu nowych propozycji. W sumie zmiana przestarzałego systemu powszechnego uczestnictwa."
+    },
+    {
+      "id": 3,
+      "title": "Kant: Rozprawa",
+      "author_id": 2,
+      "picture": "https://picsum.photos/id/1003/200/200",
+      "content": "Początek traktatu czasu panowania Fryderyka Wielkiego, Króla Pruskiego żył w parnej rzeczy niemożemy przypuścić, lecz on podług niej oznaczyć, o najwyższej Istności przypuścić i kary wprost pszenikający. Albowiem w takowym przyszło dorozumiewał odmiany w tym zależy, że nią niejest, boby to już każdy deptać będzie! Wypada nam granice naszego ku doskonałości. "
+    },
+    {
+      "id": 4,
+      "title": "Lorem Ipsum",
+      "author_id": 4,
+      "picture": "https://picsum.photos/id/1011/100/300",
+      "content": "Lorem ipsum dolor sit amet tempor vitae, pellentesque erat velit ac nibh ac purus. Duis blandit eu, facilisis hendrerit. Fusce consequat ac, suscipit quis, ipsum. Nam posuere. Quisque pharetra, urna quis massa at sapien pede lobortis volutpat."
+    }
+  ]
+}
