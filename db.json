@@ -1,38 +1,49 @@
 {
   "users": [
-	  {
-"id": 1,
-"first_name": "Newton",
-"last_name": "Perełka",
-"email": "niutonek.kotzapchlony@gmail.com",
-"phoneNumber": "+48 000 000 000",
-"picture": "https://zwierzaki.pl/wp-content/uploads/2021/01/kot-europejski-840x400.jpg",
-"birthday": "",
-"birthPlace": "kanał obok WORDu",
-},
-{
-"id": 2,
-"first_name": "Marika",
-"last_name": "Perełka",
-"email": "marikaperelka@gmail.com",
-"phoneNumber": "+00 000 000 000",
-"picture": "https://sp-ao.shortpixel.ai/client/q_lossless,ret_img,w_680/https://apetete.pl/blog/wp-content/uploads/2021/03/sophie-louisnard-kbiBXsea4o8-unsplash-680x1024.jpg",
-"birthday": "22.10.2013",
-"birthPlace": "gdzieś na drodze",
-},
-{
-"id": 3,
-"first_name": "Monti",
-"last_name": "Perełka",
-"email": "montiperelka@gmail.com",
-"phoneNumber": "+00 000 000 000",
-"picture": "https://polki.pl/foto/16_9_LARGE/kot-perski-charakterystyka-rasy-1704649.jpg",
-"birthday": "dwano",
-"birthPlace": "gdzieś w hodowli",
-
-}
-
-        	  
+    {
+      "id": 1,
+      "first_name": "Grzegorz",
+      "last_name": "Grubciak",
+      "email": "g.grubciak@gmail.com",
+      "phoneNumber": "+48 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    },
+    {
+      "id": 2,
+      "first_name": "Katarzyna",
+      "last_name": "Nowak",
+      "email": "k.nowak@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/women/18.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    },
+    {
+      "id": 3,
+      "first_name": "Maria",
+      "last_name": "Kowalska",
+      "email": "m.kowalska@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/women/84.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    },
+    {
+      "id": 4,
+      "first_name": "Piotr",
+      "last_name": "Obdarowicz",
+      "email": "p.obdarowicz@gmail.com",
+      "phoneNumber": "+00 000 000 000",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
+      "birthday": "1/1/1955",
+      "phone": "1/1/1955",
+      "address": "1/1/1955"
+    }
   ],
   "articles": [
     {
